@@ -2,6 +2,7 @@
 ![Badge Name](https://img.shields.io/badge/FPCUP-%23<red>.svg?style=for-the-badge&logo=FPCUP&logoColor=<blue>)
 ![Badge Name](https://img.shields.io/badge/LandChange-%23<red>.svg?style=for-the-badge&logo=LandChange&logoColor=<blue>)
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/geemap)
 
 # FPCUP-Climate
 ## Development of Downstream Applications Supporting Sectoral Information System under Copernicus Climate Change Service
