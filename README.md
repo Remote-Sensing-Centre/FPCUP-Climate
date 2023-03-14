@@ -1,9 +1,10 @@
 # FPCUP-Climate
 ## Development of Downstream Applications Supporting Sectoral Information System under Copernicus Climate Change Service
 
-System for automatic land use change detection
+### System for automatic land use change detection
 
-Land use/land cover change products available under Copernicus framework
+
+#### Land use/land cover change products available under Copernicus framework:
 
 #### Copernicus Climate Change Services:
 - Global: The United Nations Food and Agriculture Organization’s (UN FAO) Land Cover Classification System (LCCS) at 300 m resolution. Land cover classification gridded maps are provided for the period 1992-2020, yearly.
